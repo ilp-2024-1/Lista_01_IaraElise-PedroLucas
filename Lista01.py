@@ -51,3 +51,15 @@
 #        "\n Sua média é: ", media_aritmetica)
 
 #Questão 7 - Média ponderada
+# nota1 = float(input("Insira sua primeira nota: "))
+# nota2 = float(input("Insira sua segunda nota: "))
+# nota3 = float(input("Insira sua terceira nota: "))
+# nota4 = float(input("Insira sua quarta nota: "))
+# peso1 = 1
+# peso2 = 2
+# peso3 = 2
+# peso4 = 3
+# media_pond = round(float(((nota1*peso1) + (nota2*peso2) + (nota3*peso3) + (nota4*peso4)) / (peso1 + peso2 +peso3 +peso4)))
+
+# print ("Suas notas são, respectivamente: ", nota1, nota2, nota3, nota4)
+# print ("Sua média é: ", media_pond)
