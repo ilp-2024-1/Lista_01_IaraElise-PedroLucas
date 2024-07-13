@@ -1,4 +1,4 @@
-#Questão 1
+#Questão 1 - Calculadora
 
 # val_1 = int(input("Insira um valor: "))
 # val_2 = int(input("Insira outro valor: "))
@@ -12,14 +12,21 @@
 # print ("A divisão desses números é: ", divisao)
 # print ("Fim.")
 
-# #Questão 2
+#Questão 2 - Conversão de temperatura
 # val_celsius = int(input("Insira um valor de temperatura em Celsius: "))
 # conversao = (val_celsius * 9/5) + 32
 # print ("A temperatura", val_celsius,"ºC em Farenheint é de: ", conversao, "ºF")
 
-# #Questão 3
+#Questão 3 - Cálculo da área do círculo
 # import math
 # pi = math.pi
 # raio = int(input("Insira o valor do raio de um cículo: "))
 # area_circulo = pi * (raio**2)
 # print ("A área do cículo é: ", area_circulo)
+
+#Questão 4 - Cálculo da área do triângulo
+# base = int(input("Insira um valor de base: "))
+# altura = int(input("Insira um valor de altura: "))
+# area_triangulo = (base*altura)/2
+
+# print ("A área do triângulo é: ", area_triangulo)
