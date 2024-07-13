@@ -32,9 +32,22 @@
 # print ("A área do triângulo é: ", area_triangulo)
 
 #Questão 5 - Volume da esfera
-import math
-pi = math.pi
-raio_esfera = int(input("Insira o valor do raio da esfera: "))
-volume = (4/3)*pi*(raio_esfera**3)
+# import math
+# pi = math.pi
+# raio_esfera = int(input("Insira o valor do raio da esfera: "))
+# volume = (4/3)*pi*(raio_esfera**3)
 
-print ("O volume da esfera é de: ", volume, "L")
+# print ("O volume da esfera é de: ", volume, "L")
+
+#Questão 6 - Calculadora de Média Airtmética
+# nota1 = float(input("Insira sua primeira nota: "))
+# nota2 = float(input("Insira sua segunda nota: "))
+# nota3 = float(input("Insira sua terceira nota: "))
+# media_aritmetica = round(float((nota1+nota2+nota3)/3))
+
+# print ("Sua primeira nota foi: .", nota1, 
+#        "\n Sua segunda nota foi: .", nota2, 
+#        "\n Sua terceira nota foi: .", nota3, 
+#        "\n Sua média é: ", media_aritmetica)
+
+#Questão 7 - Média ponderada
