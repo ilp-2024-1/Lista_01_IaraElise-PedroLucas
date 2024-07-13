@@ -95,3 +95,11 @@
 
 # print (numero,"x 1 =", x1, ";", numero,"x 2 =", x2, ";", numero,"x 3 =", x3, ";", numero,"x 4 =", x4, ";", numero,"x 5 =", x5, ";"
 #        , numero,"x 6 =", x6, ";", numero,"x 7 =", x7, ";", numero,"x 8 =", x8, ";", numero,"x 9 =", x9, ";", numero,"x 10 =", x10, ";")
+
+#Questão 11 - Conversão de Segundos para o formato Hora:Minuto:Segundo
+# segundos = int(input("Insira a quantidade de segundos: "))
+# horas = round(segundos/3600)
+# minutos = round((segundos%3600)/60, 2)
+# segundos_2 = round(minutos*60)
+
+# print ("A conversão ficou: Hora: ", horas, ", Minuto: ", minutos, ", Segundo: ", segundos_2, ".")
