@@ -73,3 +73,10 @@
 
 # print ("O valor de y é: ", equacao_y)
 
+#Questão 9 - Calculadora de IMC
+# peso = float(input("Insira o peso: "))
+# altura = float(input("Insira a altura: "))
+# imc = round(peso/(altura**2))
+
+# print ("O Índice de massa corporal é: ", imc, "kg/m2")
+
