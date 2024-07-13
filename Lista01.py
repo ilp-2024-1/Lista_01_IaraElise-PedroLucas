@@ -80,3 +80,18 @@
 
 # print ("O Índice de massa corporal é: ", imc, "kg/m2")
 
+#Questão 10 - Tabuada
+# numero = int(input("Insira um número: "))
+# x1 = numero*1
+# x2 = numero*2
+# x3 = numero*3
+# x4 = numero*4
+# x5 = numero*5
+# x6 = numero*6
+# x7 = numero*7
+# x8 = numero*8
+# x9 = numero*9
+# x10 = numero*10
+
+# print (numero,"x 1 =", x1, ";", numero,"x 2 =", x2, ";", numero,"x 3 =", x3, ";", numero,"x 4 =", x4, ";", numero,"x 5 =", x5, ";"
+#        , numero,"x 6 =", x6, ";", numero,"x 7 =", x7, ";", numero,"x 8 =", x8, ";", numero,"x 9 =", x9, ";", numero,"x 10 =", x10, ";")
