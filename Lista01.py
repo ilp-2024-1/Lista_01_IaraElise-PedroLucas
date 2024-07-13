@@ -63,3 +63,13 @@
 
 # print ("Suas notas são, respectivamente: ", nota1, nota2, nota3, nota4)
 # print ("Sua média é: ", media_pond)
+
+#Questão 8 - Equação do Segundo grau
+# a = float(input("Insirao o valor de a: "))
+# b = float(input("Insirao o valor de b: "))
+# c = float(input("Insirao o valor de c: "))
+# x = float(input("Insirao o valor de x: "))
+# equacao_y = float(a*x + b*x + c)
+
+# print ("O valor de y é: ", equacao_y)
+
