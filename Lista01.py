@@ -30,3 +30,11 @@
 # area_triangulo = (base*altura)/2
 
 # print ("A área do triângulo é: ", area_triangulo)
+
+#Questão 5 - Volume da esfera
+import math
+pi = math.pi
+raio_esfera = int(input("Insira o valor do raio da esfera: "))
+volume = (4/3)*pi*(raio_esfera**3)
+
+print ("O volume da esfera é de: ", volume, "L")
